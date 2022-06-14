@@ -1,6 +1,3 @@
-# Qiskit Hackathon Global
-
-
 # NEW METHOD FOR INEQUALITY CONSTRAINED OPTIMIZATION PROBLEM
 
 ## The problem
