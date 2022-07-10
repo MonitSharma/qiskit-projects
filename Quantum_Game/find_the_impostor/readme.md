@@ -2,6 +2,8 @@
 
 A fun way to learn about quantum circuits.
 
+<h2 align="center"><img src="https://github.com/MonitSharma/qiskit-projects/blob/main/Quantum_Game/find_the_impostor/puppyy3533amoung-us-puppyy-kitchen-pantry-amoung-us-impostor.gif"></h2>
+
 ## Motivation
 
 The science of quantum computing has recently experienced tremendous growth and continues to draw people of all ages. Students were interested in quantum computing at an ever-earlier age after first hearing about it. However, young students have a harder time comprehending the mechanism or approach of quantum algorithms than classical ones due to the complexity of the field. In order to provide young pupils with an interactive platform for implementing circuits, the Quantum game was created. To replicate four vents with their four states in superposition, the game needs two qubits.
