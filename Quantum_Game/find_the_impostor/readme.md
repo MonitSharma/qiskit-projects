@@ -9,15 +9,15 @@ The likelihood of discovering the impostor in the corresponding vent is indicate
 
 
 ## How to Play?
-1. To start with, the player is given the option to use a Quantum Hammer or a Classical Hammer. The Quantum Hammer will give the amplitude of the state that represents the corresponding "vent". The Classical Hammer is equivalent to a measurement, through which the player will terminate the game and find out if the impostor is in the corresponding "vent".
+1. To start with, the player is given the option to use a Quantum Knife or a Classical Knife. The Quantum Knife will give the amplitude of the state that represents the corresponding "vent". The Classical Knife is equivalent to a measurement, through which the player will terminate the game and find out if the impostor is in the corresponding "vent".
 
-2. If the players chose the Quantum Hammer, they will then have the option to add a gate to the circuit to manipulate the amplitude of a state (i.e. probability of finding the impostor in the "vent") of their choice.
+2. If the players chose the Quantum Knife, they will then have the option to add a gate to the circuit to manipulate the amplitude of a state (i.e. probability of finding the impostor in the "vent") of their choice.
 
 3. If the gate needs additional information (Ex. H, CNOT), the players will then be asked to input the information
 
-4. A circuit will be shown, and the players will be asked again for their hammer option.
+4. A circuit will be shown, and the players will be asked again for their knife option.
 
-5. The game ends when the players use the Classical Hammer to hit one "vent" of their choice. The quibts will be measured and the resulting state will be used to compare with the "vent" that the players choose. If the results match, a winning message will be shown; otherwise, the players will unfortunately loose the game.
+5. The game ends when the players use the Classical knife to hit one "vent" of their choice. The quibts will be measured and the resulting state will be used to compare with the "vent" that the players choose. If the results match, a winning message will be shown; otherwise, the players will unfortunately loose the game.
 
 
 
