@@ -21,11 +21,11 @@ def execute(model, move):
         return
     type_hammer, hole = move[0], move[1]
     if type_hammer == 'c':
-        print("Classical Smash!!!")
+        print("Classical Hit!!!")
         isGameOver = True
         winner = classical_smash(model, hole)
     else:
-        print('Quantum Smash!!!')
+        print('Quantum Hit!!!')
         quantum_smash(model, hole)
 
 def classical_smash(model, hole):
@@ -66,7 +66,7 @@ def initialize_game():
     return username, view, model
 
 if __name__ == '__main__':
-    x = input("Do you want to play Quantum Whack-a-Mole?")
+    x = input("Do you want to play Quantum Game?")
     if x == 'Yes' or x=="yes" or x=="y":
         username, view, model = initialize_game()
         play_game(username, view, model)
