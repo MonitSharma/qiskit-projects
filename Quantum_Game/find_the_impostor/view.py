@@ -20,12 +20,12 @@ class View:
             time.sleep(1)
             print("It exists here, there and everywhere ... at once")
             time.sleep(1)
-            print("We bestow upon you the Quantum Hammer!!!")
+            print("We bestow upon you the Quantum Knife!!!")
             time.sleep(1)
             print("Use it and end the terror of the Quantum-impostor!")
 
     def accept_move(self):
-        x = input("What are you going to do? \n Enter c for classical smash and q for quantum smash followed by the Panel number? ")
+        x = input("What are you going to do? \n Enter c for classical hit and q for quantum hit followed by the Panel number? ")
         return x
 
     def final_message(self, username, win):
